@@ -5,6 +5,8 @@ Project mostly focused on convolutional neural networks and Swin Transformer bas
 [Vanilla_Dataset](https://drive.google.com/drive/folders/1xc5ZUS-f4m5oSeeTq4zzZWtCN53FGsAU?usp=drive_link)
 [PARULA_Dataset](https://drive.google.com/drive/folders/12DxP1nV5omzJ7bNNmpZ1mG3e7kZgcBw1?usp=drive_link)
 
+## Video
+[VIDEO](https://drive.google.com/drive/folders/1stBRxft3-Zfud9iaY7rO5R5WqF4AqOeM?usp=drive_link)
 ## Libraries
 - Python
   - NumPy
