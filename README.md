@@ -13,7 +13,7 @@ Project mostly focused on convolutional neural networks and Swin Transformer bas
   - Seaborn
 - Image Processing
   - PIL  
-- Machine Learning
+- Metrics
   - Scikit-learn
 - Deep Learning  
   - PyTorch
